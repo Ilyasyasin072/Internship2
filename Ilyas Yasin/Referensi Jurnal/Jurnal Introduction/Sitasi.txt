@@ -1,0 +1,74 @@
+[1] @article{kohda2017recycling,
+  title={Recycling of biodiesel fuel wastewater for use as a liquid fertilizer for hydroponics},
+  author={Kohda, Jiro and Nakano, Yasuhisa and Kugimiya, Akimitsu and Takano, Yu and Yano, Takuo},
+  journal={Journal of Material Cycles and Waste Management},
+  volume={19},
+  number={3},
+  pages={999--1007},
+  year={2017},
+  publisher={Springer}
+}
+[2] 
+@article{hashida2014management,
+  title={Management of nitrogen fertilizer application, rather than functional gene abundance, governs nitrous oxide fluxes in hydroponics with rockwool},
+  author={Hashida, Shin-nosuke and Johkan, Masahumi and Kitazaki, Kazuyoshi and Shoji, Kazuhiro and Goto, Fumiyuki and Yoshihara, Toshihiro},
+  journal={Plant and soil},
+  volume={374},
+  number={1-2},
+  pages={715--725},
+  year={2014},
+  publisher={Springer}
+}
+[3] @inproceedings{rahman2017performance,
+  title={Performance test of nutrient control equipment for hydroponic plants},
+  author={Rahman, Nurhaidar and Kuala, SI and Tribowo, RI and Anggara, CEW and Susanti, ND},
+  booktitle={AIP Conference Proceedings},
+  volume={1904},
+  number={1},
+  pages={020008},
+  year={2017},
+  organization={AIP Publishing}
+}
+[4] @article{PUCCINELLI2017271,
+title = "Uptake and partitioning of selenium in basil (Ocimum basilicum L.) plants grown in hydroponics",
+journal = "Scientia Horticulturae",
+volume = "225",
+pages = "271 - 276",
+year = "2017",
+issn = "0304-4238",
+doi = "https://doi.org/10.1016/j.scienta.2017.07.014",
+url = "http://www.sciencedirect.com/science/article/pii/S0304423817304235",
+author = "M. Puccinelli and F. Malorgio and I. Rosellini and B. Pezzarossa",
+keywords = "Selenium fertilization, Selenate, Biofortification, Selenium-enriched products"
+}
+[5] 
+
+
+
+
+
+
+@article{doi:10.1080/01904167.2017.1384007,
+author = {Jeffrey S. Summerhays and Von D. Jolley and Michael W. Hill and Bryan G. Hopkins},
+title = {Enhanced phosphorus fertilizers (Carbond P® and Avail®) supplied to maize in hydroponics},
+journal = {Journal of Plant Nutrition},
+volume = {40},
+number = {20},
+pages = {2889-2897},
+year  = {2017},
+publisher = {Taylor & Francis},
+doi = {10.1080/01904167.2017.1384007},
+
+URL = { 
+        https://doi.org/10.1080/01904167.2017.1384007
+    
+},
+eprint = { 
+        https://doi.org/10.1080/01904167.2017.1384007
+    
+}
+
+}
+
+
+

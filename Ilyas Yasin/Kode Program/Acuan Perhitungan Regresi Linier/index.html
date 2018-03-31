@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Analisa Regelasi Sederhana</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <a href="index.html"><button>Reset (klik untuk setiap soal baru)</button></a>
+    <p>
+        Banyak Data:
+        <input id="banyakData" type="number">
+        <button id="masukanBanyakData">masukan</button>
+    </p>
+
+    <div id="kolomData">
+        <p>No
+            <input type="text" value="x" readonly="readonly">
+            <input type="text" value="y" readonly="readonly">
+        </p>
+        <div id="data">
+        </div>
+        <button id="prosesData">Proses</button>
+    </div>
+
+
+
+    <div id="hasil">
+        <hr>
+        <h3>Langkah Pemecahan Masalah</h3>
+        <p>No
+            <input type="text" value="x" readonly="readonly">
+            <input type="text" value="y" readonly="readonly">
+            <input type="text" value="x2" readonly="readonly">
+            <input type="text" value="y2" readonly="readonly">
+            <input type="text" value="x kali y" readonly="readonly">
+        </p>
+        <div id="hasilTable"></div>
+
+
+        <hr>
+        <p>y = a + bX</p>
+        <hr>
+        <h3>Cari Koefisen a dan b:</h3>
+        <div id="solusiRumus"></div>
+        <hr>
+        <h3>Ketemu Rumus Persamaanya</h3>
+        <p>y = a + bX</p>
+        <p id="rumusnya"></p>
+
+        <p>Masukan x :
+            <input type="number" id="Xnumber">
+            <button id="cariY">Cari Y </button>
+        </p>
+
+        <p id="hasilY"></p>
+
+        <!-- korelasinya -->
+        <h3>Korelasinya yaitu:</h3>
+        <p>r = nExy - ExEy / akar((nEX2 - (Ex)p2) . (nEY2 - (EY)2)) </p>
+        <p id="rumuskorelasi"></p>
+        <p>r = <span id="korelasi">ini hasilnya</span></p>
+        <p id="kesimpulankorelasi"></p>
+
+
+
+    </div>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
